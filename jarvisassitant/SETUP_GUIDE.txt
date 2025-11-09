@@ -1,0 +1,91 @@
+========================================
+JARVIS SETUP GUIDE - Quick Start
+========================================
+
+✅ COMPLETED:
+1. ✅ All Python dependencies installed successfully
+2. ✅ .env file created with your Gemini API key
+3. ✅ Enhanced features added (web search, weather, Wikipedia, etc.)
+
+🚀 YOU'RE READY TO GO!
+
+STEP 1: Run JARVIS
+------------------
+Double-click: run_jarvis.bat
+
+OR open terminal and run:
+    python main.py
+
+STEP 2: Using JARVIS
+--------------------
+1. Wait for the GUI window to open (animated blue circle)
+2. Say "Jarvis" or "Hey Jarvis" to activate
+3. Wait for JARVIS to say "Yes, sir?"
+4. Speak your command or question clearly
+5. Listen to JARVIS's intelligent response
+
+🎤 EXAMPLE COMMANDS:
+
+Time & Date:
+- "What's the time?"
+- "What's today's date?"
+
+Weather:
+- "What's the weather?"
+
+Search & Info:
+- "Search for Python tutorials"
+- "Wikipedia quantum physics"
+- "Tell me about black holes"
+
+Web & Media:
+- "Open YouTube"
+- "Play jazz music"
+- "Open Gmail"
+- "Show me the news"
+
+Calculations:
+- "Calculate 25 times 4"
+- "What is 156 divided by 12"
+
+General Questions:
+- "Who are you?"
+- "How does AI work?"
+- "Tell me a joke"
+- "Explain photosynthesis"
+
+Exit:
+- "Exit" or "Goodbye"
+
+📖 For complete command list, see: VOICE_COMMANDS.md
+
+🎯 FEATURES:
+------------
+✅ Real-time AI responses (Google Gemini)
+✅ Live weather updates
+✅ Wikipedia integration
+✅ Web search & browsing
+✅ YouTube integration
+✅ Mathematical calculations
+✅ Natural conversation
+✅ Beautiful animated GUI
+
+💡 TIPS:
+--------
+- Speak clearly and at moderate pace
+- Reduce background noise for better recognition
+- Wait for "Yes, sir?" before speaking
+- Be specific with your questions
+- JARVIS can answer ANYTHING!
+
+TROUBLESHOOTING:
+----------------
+- Microphone not working: Check system permissions
+- Voice too fast/slow: Edit VOICE_RATE in config.py
+- No response: Check internet connection
+- GUI not showing: Make sure pygame is installed
+
+========================================
+JARVIS is ready to serve you, sir! 🎯
+========================================
+
